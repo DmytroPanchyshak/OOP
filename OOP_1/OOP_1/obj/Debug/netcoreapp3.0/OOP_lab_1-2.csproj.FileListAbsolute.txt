@@ -1,0 +1,11 @@
+C:\Users\dsx\source\repos\OOP_1\OOP_1\bin\Debug\netcoreapp3.0\OOP_lab_1-2.exe
+C:\Users\dsx\source\repos\OOP_1\OOP_1\bin\Debug\netcoreapp3.0\OOP_lab_1-2.deps.json
+C:\Users\dsx\source\repos\OOP_1\OOP_1\bin\Debug\netcoreapp3.0\OOP_lab_1-2.runtimeconfig.json
+C:\Users\dsx\source\repos\OOP_1\OOP_1\bin\Debug\netcoreapp3.0\OOP_lab_1-2.runtimeconfig.dev.json
+C:\Users\dsx\source\repos\OOP_1\OOP_1\bin\Debug\netcoreapp3.0\OOP_lab_1-2.dll
+C:\Users\dsx\source\repos\OOP_1\OOP_1\bin\Debug\netcoreapp3.0\OOP_lab_1-2.pdb
+C:\Users\dsx\source\repos\OOP_1\OOP_1\obj\Debug\netcoreapp3.0\OOP_lab_1-2.csprojAssemblyReference.cache
+C:\Users\dsx\source\repos\OOP_1\OOP_1\obj\Debug\netcoreapp3.0\OOP_lab_1-2.AssemblyInfoInputs.cache
+C:\Users\dsx\source\repos\OOP_1\OOP_1\obj\Debug\netcoreapp3.0\OOP_lab_1-2.AssemblyInfo.cs
+C:\Users\dsx\source\repos\OOP_1\OOP_1\obj\Debug\netcoreapp3.0\OOP_lab_1-2.dll
+C:\Users\dsx\source\repos\OOP_1\OOP_1\obj\Debug\netcoreapp3.0\OOP_lab_1-2.pdb
